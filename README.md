@@ -3,7 +3,7 @@
 This is the path that chatGPT has provided me to become a LLM Engineer. :)
 ---
 ### **Level 1: Beginner Projects**
-#### **1. Text Summarization App**
+#### [**1. Text Summarization App**](https://github.com/Mojtaba-Tamizi/LLM-Projects/tree/main/TextSummarizationApp)
 - **Objective**: Create a tool that summarizes input text using a pre-trained LLM (e.g., OpenAI GPT-3.5 or Hugging Face models).
 - **Key Skills**:
   - Learn how to use pre-trained LLMs via APIs (e.g., OpenAI or Hugging Face).
