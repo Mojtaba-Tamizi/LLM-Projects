@@ -12,8 +12,7 @@ This is the path that chatGPT has provided me to become a LLM Engineer. :)
 - **Tech Stack**: Python, Hugging Face Transformers, Streamlit/Flask.
 
 ---
-
-#### **2. Sentiment Analysis**
+#### [**2. Sentiment Analysis**](https://github.com/Mojtaba-Tamizi/LLM-Projects/tree/main/SentimentAnalysis)
 - **Objective**: Fine-tune a small pre-trained LLM (e.g., DistilBERT) for sentiment analysis on a dataset like IMDb movie reviews.
 - **Key Skills**:
   - Fine-tuning pre-trained models on custom datasets.
